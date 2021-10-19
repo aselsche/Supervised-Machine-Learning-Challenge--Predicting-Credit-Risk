@@ -4,8 +4,6 @@ Using this data to create machine learning models to classify the risk level of 
 # Background
 LendingClub is a peer-to-peer lending services company that allows individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market. LendingClub offers their previous data through an API.
 
-Using this data I created machine learning models to classify the risk level of given loans. Specifically, I compared the Logistic Regression model and Random Forest Classifier.
-
 # Steps
 1. Prepare and clean the data
 In the Generator folder in Resources, there is a GenerateData.ipynb notebook that will download data from LendingClub and output two CSVs:
