@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/84043141/137827209-cd0d61b8-3a5f-4cb4-8ff6-280ef30ab709.png)
+
 # Supervised-Machine-Learning-Challenge--Predicting-Credit-Risk
 Using this data to create machine learning models to classify the risk level of given loans. Specifically, comparing the Logistic Regression model and Random Forest Classifier.
 
